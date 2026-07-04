@@ -1,6 +1,6 @@
 # i2i-Academy-Redis-1
 
-Thia project's goal is understanding mechanism and applications  of the redis.
+This project's goal is understanding mechanism and applications  of the redis.
 
 
 Firstly I pulled redis container in my local device and then connect to RedisInsight dashboard. After the connection I just started the build Java 
